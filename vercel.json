@@ -1,7 +1,7 @@
 {
     "functions": {
         "pages/api/info": {
-            "includeFiles": "node_modules/@pigeon-media/cambodia-address/src/"
+            "includeFiles": "node_modules/@pigeon-media/cambodia-address/src/**"
         }   
     }
 }
