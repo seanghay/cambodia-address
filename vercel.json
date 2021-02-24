@@ -1,6 +1,6 @@
 {
     "functions": {
-        "api/info": {
+        "pages/api/info": {
             "includeFiles": "@pigeon-media/cambodia-address/src/**"
         }   
     }
